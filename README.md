@@ -45,7 +45,7 @@ class Solution
 }
 ```
 
-#51. N-Queens
+# 51. N-Queens
 ## Approach
 1.Initialize the Board:
 -Create an 𝑁×𝑁 board and initialize all positions with '.' to represent empty spaces.
